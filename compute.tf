@@ -1,9 +1,9 @@
-## Copyright © 2021, Oracle and/or its affiliates. 
-## All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
-## compute.tf
-##
-## Purpose: The following script defines the creation of compute instances based on an image available within the region
-## Registry entry can be found on the following link: https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_instance
+# Copyright (c) 2021 Oracle and/or its affiliates.
+# All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
+# compute.tf
+#
+# Purpose: The following script defines the creation of compute instances based on an image available within the region
+# Registry entry can be found on the following link: https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_instance
 
 
 

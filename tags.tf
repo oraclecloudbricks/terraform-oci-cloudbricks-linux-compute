@@ -1,8 +1,8 @@
-## Copyright © 2021, Oracle and/or its affiliates. 
-## All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
-## tags.tf 
-##
-## Purpose: The following file declares the logic for tracking usage of modules inside Dev-Rel Community. Do not override
+# Copyright (c) 2021 Oracle and/or its affiliates.
+# All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
+# tags.tf 
+#
+# Purpose: The following file declares the logic for tracking usage of modules inside Dev-Rel Community. Do not override
 
 resource "random_id" "tag" {
   byte_length = 2

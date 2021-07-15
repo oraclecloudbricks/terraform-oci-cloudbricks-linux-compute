@@ -1,8 +1,8 @@
-## Copyright © 2021, Oracle and/or its affiliates. 
-## All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
-## variables.tf 
-##
-## Purpose: The following file declares all variables used in this backend repository
+# Copyright (c) 2021 Oracle and/or its affiliates.
+# All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
+# variables.tf 
+#
+# Purpose: The following file declares all variables used in this backend repository
 
 /********** Provider Variables NOT OVERLOADABLE **********/
 
